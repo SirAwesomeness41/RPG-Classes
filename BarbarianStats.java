@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.math.*;
 import java.text.DecimalFormat;
+
 public class BarbarianStats {
 	public static void statCalculator() throws FileNotFoundException {
 		Scanner in = new Scanner (System.in);
